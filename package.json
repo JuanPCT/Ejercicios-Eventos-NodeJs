@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios-eventos-nodejs",
+  "version": "1.0.0",
+  "description": "1. Crear un evento personalizado y emitirlo.\r 2. Escuchar un evento personalizado y ejecutar una función cuando se emite el evento.\r 3. Pasar datos a través de eventos personalizados.\r 4. Escuchar eventos personalizados una sola vez.\r 5. Eliminar un controlador de eventos personalizado.\r 6. Capturar errores de eventos personalizados.\r 7. Crear y utilizar eventos de lectura y escritura en streams de datos.\r 8. Crear un temporizador que emita un evento después de un cierto período de tiempo.\r 9. Escuchar eventos de proceso y tomar medidas según sea necesario.\r 10. Escuchar eventos del sistema operativo y tomar medidas según sea necesario.",
+  "main": "Ejercicio10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPCT/Ejercicios-Eventos-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPCT/Ejercicios-Eventos-Nodejs/issues"
+  },
+  "homepage": "https://github.com/JuanPCT/Ejercicios-Eventos-Nodejs#readme",
+  "dependencies": {
+    "wmi-client": "^0.5.0"
+  }
+}
